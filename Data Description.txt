@@ -1,0 +1,134 @@
+The Reduced Data Set contains segmented movements performed in correct and incorrect manner. 
+
+The data measurements entail only angular displacements of whole body joints collected with the Vicon system.
+
+The used terms in this data set are 'exercises' and 'repetitions'. The data set includes 10 exercises, each consisting of multiple repetitions. 
+
+This file lists the repetitions from the original data set that are retained in the reduced data set. 
+
+For instance, for the deep squat exercise e01, the reduced data set includes 90 repetitions from the original 100 repetitions. 
+For Subject 1, the first repetition is removed, and repetitions 2, 3, 4,..., 10 are retained, i.e., there are 9 repetitions in the reduced data set.
+
+Similarly, the data set contains 55 repetitions for the hurdle step e02 exercise, where all repetitions for Subject 2 are removed because s/he performed the hurdle step with the left leg. 
+
+All repetitions that were removed from the correct movement data were also removed from the incorrect movement data, so that they have the same number of repetitions.
+
+e01 (deep squat) - 90 repetitions
+	Subject 1  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+	Subject 2  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 3  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 4  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 5  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 6  (10 repetitions): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 7  (8 repetitions):  2, 3, 5, 6, 7, 8, 9, 10
+        Subject 8  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 9  (8 repetitions):  2, 3, 4, 6, 7, 8, 9, 10
+        Subject 10 (10 repetitions): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+
+e02 (hurdle step) - 55 repetitions
+	Subject 1  (6 repetitions):  2, 5, 6, 7, 8, 9 
+	Subject 2  (0 repetitions):  
+        Subject 3  (8 repetitions):  2, 3, 4, 5, 6, 8, 9, 10
+        Subject 4  (7 repetitions):  2, 3, 4, 5, 6, 8, 9
+        Subject 5  (7 repetitions):  3, 5, 6, 7, 8, 9, 10
+        Subject 6  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 7  (0 repetitions):  
+        Subject 8  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 9  (9 repetitions):  1, 2, 3, 4, 5, 6, 7, 8, 9
+        Subject 10 (0 repetitions):
+
+e03 (inline lunge) - 51 repetitions
+	Subject 1  (6 repetitions):  4, 5, 6, 8, 9, 10
+        Subject 2  (0 repetitions): 
+        Subject 3  (0 repetitions):
+        Subject 4  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 5  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 6  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 7  (0 repetitions):  
+        Subject 8  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 9  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 10 (0 repetitions):
+
+e04 (Side lunge) - 70 repetitions
+	Subject 1  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 2  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 3  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 4  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 5  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 6  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 7  (0 repetitions):
+        Subject 8  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 9  (7 repetitions):  2, 3, 4, 5, 6, 7, 8
+        Subject 10 (0 repetitions):
+
+e05 (Sit to stand) - 84 repetitions
+	Subject 1  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 2  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 3  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 4  (7 repetitions):  2, 3, 5, 6, 7, 9, 10
+        Subject 5  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 6  (8 repetitions):  2, 3, 4, 6, 7, 8, 9, 10
+        Subject 7  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 8  (8 repetitions):  2, 3, 4, 5, 6, 7, 8, 9
+        Subject 9  (7 repetitions):  2, 3, 4, 5, 6, 7, 8
+        Subject 10 (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+
+e06 (Standing active straight leg raise) - 73 repetitions
+	Subject 1  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 2  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 3  (7 repetitions):  3, 4, 5, 6, 7, 8, 9
+        Subject 4  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 5  (10 repetitions): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 6  (10 repetitions): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 7  (0 repetitions):  
+        Subject 8  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 9  (10 repetitions): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 10 (0 repetitions):  
+
+e07 (Standing shoulder abduction) - 63 repetitions
+	Subject 1  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 2  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 3  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 4  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 5  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 6  (0 repetitions):  
+        Subject 7  (0 repetitions):  
+        Subject 8  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 9  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 10 (0 repetitions):  
+
+e08 (Standing shoulder extension) - 63 repetitions
+	Subject 1  (5 repetitions):  2, 4, 5, 6, 9
+        Subject 2  (8 repetitions):  2, 3, 4, 5, 6, 7, 8, 9
+        Subject 3  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 4  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 5  (8 repetitions):  2, 3, 4, 5, 6, 7, 8, 9
+        Subject 6  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 7  (0 repetitions):  
+        Subject 8  (6 repetitions):  3, 4, 6, 7, 8, 9
+        Subject 9  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 10 (0 repetitions):  
+
+e09 (Standing shoulder internal–external rotation) - 60 repetitions
+	Subject 1  (0 repetitions):  
+        Subject 2  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 3  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 4  (7 repetitions):  2, 3, 4, 5, 6, 7, 8
+        Subject 5  (10 repetitions): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 6  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 7  (0 repetitions):  
+        Subject 8  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 9  (7 repetitions):  2, 3, 4, 5, 8, 9, 10
+        Subject 10 (0 repetitions):
+
+e10 (Standing shoulder scaption) - 54 repetitions
+	Subject 1  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 2  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 3  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 4  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 5  (0 repetitions):  
+        Subject 6  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 7  (0 repetitions):  
+        Subject 8  (9 repetitions):  2, 3, 4, 5, 6, 7, 8, 9, 10
+        Subject 9  (0 repetitions):  
+        Subject 10 (0 repetitions):
